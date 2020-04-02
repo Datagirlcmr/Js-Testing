@@ -12,4 +12,8 @@ describe('Ccipher', ()=>{
     it('encrypts a string by the increment', ()=>{
         expect(cCipher('attack at dawn', 5)).toBe('fyyfhp fy ifbs')
     })
+
+    it('encrypts a string by the increment', ()=>{
+        expect(cCipher('attack at dawn', 5)).toBe('fyyfhp fy ifbs')
+    })
 })
