@@ -29,8 +29,9 @@ to install all the dependencies and modules that were used for this project.
 
 ## Running Tests
  Run
-    
-    npm run tests
+
+    npm run test
+
 
 For more information, see the
 [*The Odin Project*](https://www.theodinproject.com/courses/javascript/lessons/testing-practice).
