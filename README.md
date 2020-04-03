@@ -5,7 +5,7 @@ The purpose of this project was to do testing practice for functions using jest.
 - capitalize(string): Takes a string and returns that string with the first character capitalized.
 - reverseString(string) takes a string and returns it reversed.
 - A calculator object that contains the basic operations: add, subtract, divide, and multiply.
-- [Caesar cipher]("http://practicalcryptography.com/ciphers/caesar-cipher/").
+- [Caesar cipher](http://practicalcryptography.com/ciphers/caesar-cipher/).
 - Array Analysis. Write a function that takes an array of numbers and returns an object with the following properties: average, min, max, and length.
 
    
