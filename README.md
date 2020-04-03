@@ -5,7 +5,7 @@ The purpose of this project was to do testing practice for functions using jest.
 - capitalize(string): Takes a string and returns that string with the first character capitalized.
 - reverseString(string) takes a string and returns it reversed.
 - A calculator object that contains the basic operations: add, subtract, divide, and multiply.
-- Caesar cipher("http://practicalcryptography.com/ciphers/caesar-cipher/").
+- [Caesar cipher](http://practicalcryptography.com/ciphers/caesar-cipher/).
 - Array Analysis. Write a function that takes an array of numbers and returns an object with the following properties: average, min, max, and length.
 
    
@@ -29,7 +29,12 @@ to install all the dependencies and modules that were used for this project.
 
 ## Running Tests
  Run
+<<<<<<< HEAD
     npm run test
+=======
+    
+    npm run tests
+>>>>>>> f6f41da028252f63c4faf78a5dc9fbfab61a6bb8
 
 For more information, see the
 [*The Odin Project*](https://www.theodinproject.com/courses/javascript/lessons/testing-practice).
